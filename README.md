@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SirLimmm
 - 👀 I’m interested in Web Dev and Software Development
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on ..... we shall see
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on PyPSA amongst other things .....
 - 📫 How to reach me ... here on Github I guess
 
 <!---
